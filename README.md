@@ -9,3 +9,5 @@ git commit -m ''
 git push origin master
 
 git checkout -b xialoyu 注意：新增分支的来源
+git log 查看历史版本
+git reset --hard xxx版本id
